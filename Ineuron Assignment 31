@@ -1,0 +1,153 @@
+Q1.   Add a tooltip with the Paragraph below with the text "Python Web Devlopment in Hindi".
+Ans.   <!DOCTYPE html>
+      <html lang="en">
+          <head>
+              <title>HTML page</title>
+          </head>
+
+          <body>
+              <i>ChamchamG</i>
+              <p><button>Python web devlopment in Hindi</button></p>
+          </body>
+      </html>
+      
+Q2.   In the form below, add an input field with type "button" and the value "OK".
+Ans.    <!DOCTYPE html>
+          <html lang="en">
+              <head>
+                  <title>HTML Page</title>
+              </head>    
+                  <body>   
+                    <form >
+                      <input type="button" value="ok" />
+
+                     </form>
+              </body>
+          </html>
+  
+Q3.   Inside a form tag,add two radio buttons both with the name "Programming_Language".
+Ans.    <!DOCTYPE html>
+          <html lang="en">
+              <head>
+                  <title>
+                      HTML page
+                  </title>
+              </head>
+              <body>
+                  <form action="https://www.ineuron.ai" method="get">
+                      <input type="radio" /><label>C</label> </br>
+
+                      <input type="radio"  /><label>CPP</label>
+                  </form>
+              </body>
+          </html>
+          
+Q4.   Inside a  form tag,add an empty dropdown list with the name "food_menu".
+Ans.   <!DOCTYPE html>
+        <html lang="en">
+            <head>
+                <title>HTML Page</title>
+            </head>
+            <body>
+                <form action="https://www.hotelChamchamG.com" method="get">
+
+                        <select>
+                            <option hidden>Food_Menu</option>
+                            <option>Idli</option>
+                            <option>Dosa</option>
+                            <option>Poha</option>
+                            <option>Fish</option>
+                            <option>Samosa</option>
+                            <option>Sweet's</option>
+                            <option>Paratha</option>
+                        </select>
+
+                </form>
+            </body>
+        </html>
+        
+Q5.   Inside a form tag,add a text area with the name "note".
+Ans.    <!DOCTYPE html>
+        <html lang="en">
+            <head>
+                <title>HTML Page</title>
+            </head>
+            <body>
+                <form action="https://www.ineuron.com" method="get">
+                    <textarea>Note:</textarea>
+                    <button>Submit</button>
+                </form>
+            </body>
+        </html>
+        
+Q6.   Inside a form tag,add a submit button with the value "Submt Form".
+Ans.   <!DOCTYPE html>
+        <html lang="en">
+            <head>
+                <title>HTML Page</title>
+            </head>
+            <body>
+                <form action="https://www.ineuron.ai" method="get">
+
+                    <button style="background-color: grey;">Submit form</button>
+
+                </form>
+            </body>
+        </html>
+        
+Q7.   Disable the input field below.
+Ans.   <!DOCTYPE html>
+        <html lang="en">
+            <head>
+                <title>HTML Page</title>
+            </head>
+            <body>
+                <form action="https://www.google.com" method="get">
+                    <input type="text" disabled/>
+
+                </form>
+            </body>
+        </html>
+        
+Q8.  Restrict the maximum number of character allowed in the input field to 10.
+Ans.  <!DOCTYPE html>
+        <html lang="en">
+            <head>
+                <title>HTML Page</title>
+            </head>
+            <body>
+                <form action="https://www.google.com" method="get">
+                    <input type="text" maxlength="10"/>
+                </form>
+            </body>
+        </html>
+        
+Q9.  Inside a form tag that accept only .png file.
+Ans.  <!DOCTYPE html>
+      <html lang="en">
+          <head>
+              <title>HTML Page</title>
+          </head>
+          <body>
+              <form action="https:www.google.com" method="get">
+                  <input type="file" accept=".png"    />
+              </form>
+          </body>
+      </html>
+      
+Q10.  Add a table row with two table headers. The two table headers should ahve the value"Index" and "topic".
+Ans.  <!DOCTYPE html>
+      <html lang="en">
+          <head>
+              <title>HTML Page</title>
+          </head>
+          <Body>
+           <ol>
+              <li><h3>CSS</h3></li>
+              <li>Java</li>
+              <li>Python</li>
+           </ol>
+          </Body>
+      </html>  
+        
+        
